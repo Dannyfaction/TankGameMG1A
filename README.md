@@ -1,4 +1,4 @@
-TankGameMG1A
+TankGameMG1a
 ============
 
-This is an example for students to build a topdown tank shooter game.
+This is an example for students to build a top down tank shooter game
